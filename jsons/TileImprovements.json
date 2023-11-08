@@ -2,31 +2,31 @@
         {
                 "name": "Remove Hill",
 		"turnsToBuild": 5,
-		"uniques": ["Can be built outside your borders","Gain [10]-[50] [Gold]"]
+		"uniques": ["Can be built outside your borders","[+1 Faith]"]
         },
         {
                 "name": "Remove Oasis",
 		"turnsToBuild": 5,
-		"uniques": ["Can be built outside your borders","Empire enters golden age"]
+		"uniques": ["Can be built outside your borders","[+4 Faith]"]
         },
         {
                 "name": "Remove Flood plains",
 		"turnsToBuild": 5,
-		"uniques": ["Can be built outside your borders"]
+		"uniques": ["Can be built outside your borders","[+1 Faith]"]
         },
         {
                 "name": "Remove Ice",
 		"turnsToBuild": 5,
-		"uniques": ["Can be built outside your borders","Gain [10]-[50] [Science]"]
+		"uniques": ["Can be built outside your borders","[+3 Science]"]
         },
         {
                 "name": "Remove Atoll",
 		"turnsToBuild": 5,
-		"uniques": ["Can be built outside your borders","Gain [10]-[50] [Culture]"]
+		"uniques": ["Can be built outside your borders","[+3 Faith]"]
         },
 	{
 		"name": "Remove Stone",
 		"turnsToBuild": 5,
-		"uniques": ["Can be built outside your borders"]
+		"uniques": ["Can be built outside your borders","[+1 Faith]"]
 	}
 ]
