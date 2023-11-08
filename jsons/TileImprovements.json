@@ -2,7 +2,7 @@
         {
                 "name": "Remove Hill",
 		"turnsToBuild": 5,
-		"techRequired": "Mine",
+		"techRequired": "Mining",
 		"uniques": ["Can be built outside your borders"]
         },
         {
