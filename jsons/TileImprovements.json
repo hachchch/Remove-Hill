@@ -1,0 +1,27 @@
+[
+        {
+                "name": "Remove Hill",
+		"turnsToBuild": 5,
+		"uniques": ["Can be built outside your borders"]
+        },
+        {
+                "name": "Remove Oasis",
+		"turnsToBuild": 5,
+		"uniques": ["Can be built outside your borders"]
+        },
+        {
+                "name": "Remove Flood plains",
+		"turnsToBuild": 5,
+		"uniques": ["Can be built outside your borders"]
+        },
+        {
+                "name": "Remove Ice",
+		"turnsToBuild": 5,
+		"uniques": ["Can be built outside your borders"]
+        },
+        {
+                "name": "Remove Atoll",
+		"turnsToBuild": 5,
+		"uniques": ["Can be built outside your borders"]
+        }
+]
