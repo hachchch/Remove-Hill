@@ -2,7 +2,7 @@
         {
                 "name": "Remove Hill",
 		"turnsToBuild": 5,
-		"requiredTech": "Industrialization",
+		"requiredTech": "Mine",
 		"uniques": ["Can be built outside your borders"]
         },
         {
