@@ -2,31 +2,31 @@
         {
                 "name": "Remove Hill",
 		"turnsToBuild": 5,
+		"requiredTech": "Industrialization",
 		"uniques": ["Can be built outside your borders"]
         },
         {
                 "name": "Remove Oasis",
 		"turnsToBuild": 5,
+		"requiredTech": "Architecture",
 		"uniques": ["Can be built outside your borders"]
         },
         {
                 "name": "Remove Flood plains",
 		"turnsToBuild": 5,
+		"requiredTech": "Engineering",
 		"uniques": ["Can be built outside your borders"]
         },
         {
                 "name": "Remove Ice",
 		"turnsToBuild": 5,
+		"requiredTech": "Refrigeration",
 		"uniques": ["Can be built outside your borders"]
         },
         {
                 "name": "Remove Atoll",
 		"turnsToBuild": 5,
+		"requiredTech": "Masonry",
 		"uniques": ["Can be built outside your borders"]
-        },
-	{
-		"name": "Remove Quarry",
-		"turnsToBuild": 5,
-		"uniques": ["Can be built outside your borders"]
-	}
+        }
 ]
