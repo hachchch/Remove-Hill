@@ -2,31 +2,31 @@
         {
                 "name": "Remove Hill",
 		"turnsToBuild": 5,
-		"uniques": ["Can be built outside your borders","[+1 Faith]"]
+		"uniques": ["Can be built outside your borders"]
         },
         {
                 "name": "Remove Oasis",
 		"turnsToBuild": 5,
-		"uniques": ["Can be built outside your borders","[+4 Faith]"]
+		"uniques": ["Can be built outside your borders"]
         },
         {
                 "name": "Remove Flood plains",
 		"turnsToBuild": 5,
-		"uniques": ["Can be built outside your borders","[+1 Faith]"]
+		"uniques": ["Can be built outside your borders"]
         },
         {
                 "name": "Remove Ice",
 		"turnsToBuild": 5,
-		"uniques": ["Can be built outside your borders","[+3 Science]"]
+		"uniques": ["Can be built outside your borders"]
         },
         {
                 "name": "Remove Atoll",
 		"turnsToBuild": 5,
-		"uniques": ["Can be built outside your borders","[+3 Faith]"]
+		"uniques": ["Can be built outside your borders"]
         },
 	{
 		"name": "Remove Stone",
 		"turnsToBuild": 5,
-		"uniques": ["Can be built outside your borders","[+1 Faith]"]
+		"uniques": ["Can be built outside your borders"]
 	}
 ]
