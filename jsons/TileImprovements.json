@@ -25,7 +25,7 @@
 		"uniques": ["Can be built outside your borders"]
         },
 	{
-		"name": "Remove Stone",
+		"name": "Remove Grassland",
 		"turnsToBuild": 5,
 		"uniques": ["Can be built outside your borders"]
 	}
